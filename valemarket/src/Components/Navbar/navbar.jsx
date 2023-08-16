@@ -6,10 +6,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { Link } from "react-router-dom";
 import "./navbar.css"
 
-const Navbar1 = () => {
+export const Navbar1 = () => {
   return (
     <>
-    <Navbar expand="lg" className="bg-body-tertiary">
+    <Navbar id="bg-body-tertiary">
       <Container className="pero">
         <Navbar.Brand href="#home">Home</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -17,6 +17,7 @@ const Navbar1 = () => {
           <Nav className="me-auto">
           <Link to={"/login"}>👤</Link>
           <Link to={"/cart"}>🛒</Link>
+          
             
           </Nav>
           <input type="text"placeholder="Search"></input>

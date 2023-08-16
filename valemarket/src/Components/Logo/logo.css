@@ -1,11 +1,18 @@
 .photo {
-    background-color: rgba(43, 193, 219, 0.495);
+    background-color: rgb(255, 227, 247);
     width: 1280px;
-    height: 100px;
+    height: 200px;
     align-content: end;
     align-items: center;
     display: flex;
     justify-content: center;
     font-size: 30px;
+    color: rgb(147, 10, 113);
+    font-family:
     
+}
+#kirby {
+    width: 400px;
+    height: 200px;
+    margin-left: 200px;
 }
