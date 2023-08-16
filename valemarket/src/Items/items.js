@@ -1,0 +1,147 @@
+export const data = {
+    items: [
+        {
+            id:0,
+            img: "https://i.pinimg.com/564x/49/fd/4c/49fd4c257ad2bbcf9767f046eaeeddca.jpg",
+            title: "Pastel my melody",
+            description: "Este producto es el mejor porque...",
+            value:8000,
+            currency:"₡",
+            contactNumber: "+50688348975"
+        },
+        {  id:1,
+            img:"https://i.pinimg.com/564x/ea/14/78/ea14784122dec06fac94eadef633c4fb.jpg",
+            title: "Pastel Cinamoroll",
+            description: "Este producto es el mejor porque...",
+            value:9000,
+            currency:"₡",
+            contactNumber: "+50688348975"
+        },
+        {
+            id:2,
+            img:"https://i.pinimg.com/564x/47/5f/97/475f97dbf561139a64483e6b8399c34d.jpg",
+            title: "Pastel kuromi",
+            description: "Este producto es el mejor porque...",
+            value:11000,
+            currency:"₡",
+            contactNumber: "+50688348975"
+        },
+        {  id:3,
+            img:"https://i.pinimg.com/564x/ea/14/78/ea14784122dec06fac94eadef633c4fb.jpg",
+            title: "Pastel Cinamoroll",
+            description: "Este producto es el mejor porque...",
+            value:8000,
+            currency:"₡",
+            contactNumber: "+50688348975"
+        },
+        {  id:4,
+            img:"https://i.pinimg.com/564x/80/0a/5f/800a5f8bee9adc831b267b09daf9983c.jpg",
+            title: "Pastel Hello Kitty",
+            description: "Este producto es el mejor porque...",
+            value:8000,
+            currency:"₡",
+            contactNumber: "+50688348975"
+        },
+        {  id:5,
+            img:"https://i.pinimg.com/564x/e0/74/a0/e074a0363c977f35b6bf33f19ac245a5.jpg",
+            title: "Pastel x",
+            description: "Este producto es el mejor porque...",
+            value:9500,
+            currency:"₡",
+            contactNumber: "+50688348975"
+        },
+        {  id:6,
+            img:"https://i.pinimg.com/564x/ea/14/78/ea14784122dec06fac94eadef633c4fb.jpg",
+            title: "Pastel Fresas",
+            description: "Este producto es el mejor porque...",
+            value:15000,
+            currency:"₡",
+            contactNumber: "+50688348975"
+        },
+        {  id:7,
+            img:"https://i.pinimg.com/564x/31/17/1a/31171abfc46a90b9de972b3974000e87.jpg",
+            title: "Pastel Kirby",
+            description: "Este producto es el mejor porque...",
+            value:15000,
+            currency:"₡",
+            contactNumber: "+50688348975"
+        },
+        {  id:8,
+            img:"https://i.pinimg.com/564x/e6/ec/2f/e6ec2f062e7ac32fd2a9e88ce0ef5eec.jpg",
+            title: "Pastel Puka",
+            description: "Este producto es el mejor porque...",
+            value:15000,
+            currency:"₡",
+            contactNumber: "+50688348975"
+        },
+        {  id:9,
+            img:"https://i.pinimg.com/564x/ea/14/78/ea14784122dec06fac94eadef633c4fb.jpg",
+            title: "Pastel Cinamoroll",
+            description: "Este producto es el mejor porque...",
+            value:15000,
+            currency:"₡",
+            contactNumber: "+50688348975"
+        },
+        {  id:10,
+            img:"https://i.pinimg.com/564x/ea/14/78/ea14784122dec06fac94eadef633c4fb.jpg",
+            title: "Pastel Cinamoroll",
+            description: "Este producto es el mejor porque...",
+            value:15000,
+            currency:"₡",
+            contactNumber: "+50688348975"
+        },
+        {  id:11,
+            img:"https://i.pinimg.com/564x/ea/14/78/ea14784122dec06fac94eadef633c4fb.jpg",
+            title: "Pastel Cinamoroll",
+            description: "Este producto es el mejor porque...",
+            value:15000,
+            currency:"₡",
+            contactNumber: "+50688348975"
+        },
+        {  id:12,
+            img:"https://i.pinimg.com/564x/ea/14/78/ea14784122dec06fac94eadef633c4fb.jpg",
+            title: "Pastel Cinamoroll",
+            description: "Este producto es el mejor porque...",
+            value:15000,
+            currency:"₡",
+            contactNumber: "+50688348975"
+        },
+        {  id:13,
+            img:"https://i.pinimg.com/564x/ea/14/78/ea14784122dec06fac94eadef633c4fb.jpg",
+            title: "Pastel Cinamoroll",
+            description: "Este producto es el mejor porque...",
+            value:15000,
+            currency:"₡",
+            contactNumber: "+50688348975"
+        },
+        {  id:14,
+            img:"https://i.pinimg.com/564x/ea/14/78/ea14784122dec06fac94eadef633c4fb.jpg",
+            title: "Pastel Cinamoroll",
+            description: "Este producto es el mejor porque...",
+            value:15000,
+            currency:"₡",
+            contactNumber: "+50688348975"
+        },
+        {  id:15,
+            img:"https://i.pinimg.com/564x/ea/14/78/ea14784122dec06fac94eadef633c4fb.jpg",
+            title: "Pastel Cinamoroll",
+            description: "Este producto es el mejor porque...",
+            value:15000,
+            currency:"₡",
+            contactNumber: "+50688348975"
+        },
+        {  id:16,
+            img:"https://i.pinimg.com/564x/ea/14/78/ea14784122dec06fac94eadef633c4fb.jpg",
+            title: "Pastel Cinamoroll",
+            description: "Este producto es el mejor porque...",
+            value:15000,
+            currency:"₡",
+            contactNumber: "+50688348975"
+        },
+    ]
+
+   
+
+}
+
+
