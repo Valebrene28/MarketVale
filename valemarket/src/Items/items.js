@@ -7,8 +7,14 @@ const Items = (props) => {
         <h1>{props.title}</h1>
         <h1>{props.value}</h1>
         <h1>{props.description}</h1>
+        
     </div>
   )
+  
 }
+
+       
+       
+
 
 export default Items

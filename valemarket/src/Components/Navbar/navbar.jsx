@@ -11,17 +11,17 @@ export const Navbar1 = () => {
     <>
     <Navbar id="bg-body-tertiary">
       <Container className="pero">
-        <Navbar.Brand href="#home">Home</Navbar.Brand>
+        
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
           <Link to={"/login"}>👤</Link>
           <Link to={"/cart"}>🛒</Link>
           
-            
+            <div className="whotext" ><p>About us</p></div>
+            <div className="contactus"><p>Contact us</p></div>
           </Nav>
-          <input type="text"placeholder="Search"></input>
-          <button>🔎</button>
+          <Link to={"/form"}><button class="button2">Add cake</button></Link>
         </Navbar.Collapse>
       </Container>
     </Navbar>

@@ -47,24 +47,26 @@ svg {
 }
 
 #text-body {
-  color: rgb(194, 106, 176);
+  color: rgb(156, 63, 120);
   font-weight: 900;
-  font-size: 1.2em;
+  font-size: 1.3em;
   line-height: 1.5;
+  font-family: 'Times New Roman', Times, serif;
 }
 /*Text*/
 .text-price {
   font-weight: 900;
   font-size: 1.2em;
   line-height: 1.5;
-  color: rgba(48, 23, 41, 0.789);
+  color: rgba(129, 54, 107, 0.789);
+  font-family: 'Times New Roman', Times, serif;
 }
 
 /*Button*/
 .card-button {
   border: 1px solid #252525;
   display: flex;
-  padding: 0.3em;
+  padding: 0.1em;
   cursor: pointer;
   border-radius: 50px;
   transition: 0.3s ease-in-out;
@@ -79,12 +81,13 @@ svg {
 
 .card-button:hover {
   border: 1px solid #070504;
-  background-color: #ffffff;
+  background-color: #bb3c3c;
 }
 
 .fotos {
   height: 150px;
   width: 150px;
+  border-radius: 10px;
 }
 .row{
     display: flex;

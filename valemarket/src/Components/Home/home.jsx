@@ -1,6 +1,8 @@
 import Navbar1 from "../Navbar/navbar";
 import { Datos, data } from "../../Items/Datos";
 import Cards from "../Cards/Cards";
+import Details from "../Details/Details";
+import Login from "../Login/Login";
 
 
 
@@ -15,9 +17,11 @@ const Home = () => {
     return (
       
     <>
-    
+
     <Navbar1/>
+    <Cards/>
     <Datos/>
+    <Login />
     </>
      
     )
